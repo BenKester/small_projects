@@ -1,0 +1,207 @@
+# liquid numbers in ounces
+# fields: ingredients, garnish, glass, method, note, variants, source
+bay breeze:
+  ingredients:
+    vodka: 5.5
+    cranberry juice: 3
+    pineapple juice: 5.5
+  garnish:
+    lime wheel
+  glass: highball
+  method: combine with ice, stir
+  source: https://www.liquor.com/bay-breeze-cocktail-recipe-5181821
+  notes: good for pool
+blinker:
+  ingredients:
+    rye whiskey: 2
+    grapefruit juice: 1
+    raspberry syrup: 1
+  garnish:
+    3 raspberries, skewered
+cosmopolitan:
+  ingredients:
+    citron vodka: 6.5
+    cointreau: 0.75
+    lime juice: 0.75
+    cranberry juice cocktail: 0.5
+  garnish:
+    lime wedge
+  glass: chilled cocktail
+  method: combine with ice, shake, strain
+  source: https://www.liquor.com/recipes/cosmopolitan/
+daiquiri:
+dark and stormy:
+dry martini:
+  ingredients:
+    gin: 2.5
+    dry vermouth: 0.5
+    orange bitters: 0.1
+  garnish:
+    lemon twist
+  glass: chilled cocktail
+  method: combine with ice, stir, strain
+  source: https://www.liquor.com/recipes/dry-martini/
+  variants:
+    vodka martini: vodka for gin
+    reverse martini: swap gin/vermouth ratios
+french 75:
+gin and tonic:
+grasshopper:
+hairy navel:
+  ingredients:
+    vodka: 5.5
+    peach schnapps: 1
+    orange juice: 4
+  garnish:
+    orange wheel
+    preserved cherry
+  glass: Collins
+  method: combine with ice, stir
+  source: https://www.liquor.com/hairy-navel-cocktail-recipe-5189037
+  notes: good for pool
+kir royale:
+kir:
+lemon drop:
+long island iced tea:
+lynchburg lemonade:
+  ingredients:
+    whiskey: 1
+    triple sec: 1
+    lemon juice: 0.5
+    simple syrup: 0.5
+    lemon-lime soda: 4
+  garnish:
+    lemon wedge
+  glass: highball with ice
+  method: combine (-soda) with ice, shake, pour, top w/ lemon lime soda, stir briefly
+  notes: Tony Mason created in Huntsville, AL; uses Jack Daniels whiskey; JD appropriated
+  source: https://www.liquor.com/lynchburg-lemonade-cocktail-recipe-5199408
+mai tai:
+  ingredients:
+    white rum: 6.5
+    orange curacao: 0.75
+    lime juice: 0.75
+    orgeat: 0.5
+    dark rum: 0.5
+  garnish:
+    lime wheel
+    mint sprig
+  glass: rocks
+  method: combine (- dark rum), light shake, pour, top w/ dark rum
+  notes: triple sec substitutes for orange curacao
+  source: https://www.liquor.com/recipes/traditional-mai-tai/
+manhatten:
+  ingredients:
+    rye whiskey: 1.5
+    sweet vermouth: 1
+    aromatic bitters: 0.2
+  garnish:
+    brandied cherries on a spear
+  glass: rocks
+  method: combine with ice, stir, strain
+  source: https://www.liquor.com/a-new-high-rye-point-for-the-classic-manhattan-5225204
+  note: johnnie walker high rye recommended
+  variants:
+    bourbon: camps for rye and bourbon
+margarita: 
+  ingredients:
+    blanco tequila: 2
+    orange liqueur: 0.5
+    lime juice: 1
+    agave syrup: 0.5
+  garnish:
+    lime wheel
+    lime juice
+    kosher salt
+  glass: rocks
+  method: combine with ice, shake, strain
+  variants:
+    spicy: muddle 2 jalepeno coins, no seeds
+  note: Blanco tequila w/ 100% blue agave. Juice of about 1 lime.
+  source: https://www.liquor.com/recipes/margarita/
+mimosa:
+mojito:
+moscow mule:
+negroni:
+  ingredients:
+    gin: 1
+    campari: 1
+    sweet vermouth: 1
+  garnish:
+    orange peel
+  glass: rocks
+  method: combine with ice, stir, strain
+  source: https://www.liquor.com/recipes/negroni/
+  notes: gin/vermouth pairings are the key; more drinks available with campari
+  variants:
+    boulevardier: bourbon for gin
+    quill: https://www.liquor.com/quill-cocktail-recipe-5121046
+old fashioned:
+paloma:
+painkiller:
+  ingredients:
+    pusser's rum: 2
+    pineapple juice: 4
+    orange juice: 1
+    cream of coconut: 1
+  garnish:
+    nutmeg
+    pineapple wedge
+    straw
+  glass: hurricane w/ crushed ice
+  method: combine with ice, shake, strain
+  source: https://www.liquor.com/recipes/painkiller/
+pina colada:
+radler:
+  ingredients:
+    lager beer: 8
+    lemon-lime soda: 8
+  glass: pint
+  method: combine, stir
+  alternatives:
+    lemonade: sparkling lemonade for lemon-lime soda
+    shandy: similar
+rum and coke:
+  ingredients:
+    rum: 2
+    coke: 4
+  glass: highball
+  method: combine with ice, stir
+  source: https://www.liquor.com/rum-coke-cocktail-recipe-5199586
+salty dog:
+sea breeze:
+tom collins:
+whiskey sour:
+white russian:
+  ingredients:
+    vodka: 2
+    kahlua: 1
+    heavy cream: 0.1
+  glass: rocks
+  method: rocks+vodka+kahlua, top with cream, stir
+  source: https://www.liquor.com/recipes/white-russian/
+woo woo:
+  ingredients:
+    vodka: 2
+    peach schmapps: 1
+    cranberry juice: 3
+  garnish:
+    lime wedge
+  glass: highball
+  method: combine with ice, stir
+  source: https://www.liquor.com/woo-woo-cocktail-recipe-5101083
+  notes: good for pool
+
+template:
+  ingredients:
+  garnish:
+  glass: 
+  method:
+  source:
+
+bulks:
+  baltimore eggnog: winter, https://www.liquor.com/baltimore-eggnog-recipe-5210679
+  spiced apple cider: fall, https://www.liquor.com/spiced-apple-cider-recipe-5206530
+  wassail: fall/winter, https://www.liquor.com/wassail-cocktail-recipe-5119079
+missed the list:
+  queens park swizzle: advanced, fun to try later https://www.liquor.com/queens-park-swizzle-cocktail-recipe-5649402
