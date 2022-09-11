@@ -2,9 +2,9 @@
 # fields: ingredients, garnish, glass, method, note, variants, source
 bay breeze:
   ingredients:
-    vodka: 5.5
+    vodka: 1.5
     cranberry juice: 3
-    pineapple juice: 5.5
+    pineapple juice: 1.5
   garnish:
     lime wheel
   glass: highball
@@ -49,7 +49,7 @@ gin and tonic:
 grasshopper:
 hairy navel:
   ingredients:
-    vodka: 5.5
+    vodka: 1.5
     peach schnapps: 1
     orange juice: 4
   garnish:
@@ -183,7 +183,7 @@ white russian:
 woo woo:
   ingredients:
     vodka: 2
-    peach schmapps: 1
+    peach schnapps: 1
     cranberry juice: 3
   garnish:
     lime wedge
