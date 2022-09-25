@@ -1,0 +1,71 @@
+# matches by [name], [name] [parent], or [parent] [name]
+# optional attributes:
+#  substitutes for: a, b, c, ...
+#  shelf life: x [day[s]|week[s]|month[s]|year[s]]
+#  synonyms
+
+spirits:
+ brandy:
+ whiskey:
+  bourbon:
+  rye whiskey:
+  regular whiskey:
+  scotch:
+  cinnamon whiskey:
+ gin:
+  plymouth gin:
+  london dry gin:
+  japanese gin:
+ rum:
+  jamaican:
+   light jamaican rum:
+   dark jamaican rum:
+ black balsam:
+  black balsam original:
+  black balsam currant:
+ tequila:
+  tequila blanco:
+  tequila reposado:
+ vodka:
+  vodka:
+  lemon vodka:
+liquers:
+ orange:
+  orange liquer:
+   substitutes for: triple sec, curacao, cointreau
+  triple sec:
+   substitutes for: orange liquer, curacao, cointreau
+  curacao:
+   substitutes for: orange liquer, triple sec, cointreau
+  cointreau:
+   substitutes for: orange liquer, triple sec, curacao
+ peach schnapps:
+ peppermint schnapps:
+ coffee liquer:
+ cream:
+  baileys:
+ campari:
+ cognac:
+  vsop cognac:
+bitters:
+ orange bitters:
+ angostura bitters:
+juices:
+ lime juice:
+ lemon juice:
+ pineapple juice:
+ grapefruit juice:
+ orange juice:
+syrups:
+ simple syrup:
+ raspberry syrup:
+ orgeat:
+ grenadine:
+sodas:
+ club soda:
+ ginger beer:
+wines:
+ dry vermouth:
+ sweet vermouth:
+dairy:
+ heavy whipping cream:

@@ -35,16 +35,6 @@ bourbon smash:
   method: muddle quartered lemon+mint, simple+bourbon. shake & dump.
   variants: strain over ice.
   source: https://theeducatedbarfly.com/bourbon-smash/
-cardinale:
-  ingredients:
-    gin: 1
-    dry vermouth: 1
-    campari: 1
-  garnish: orange wheel
-  glass: lowball
-  ice: big cube
-  method: combine in glass with ice, stir
-  source: https://theeducatedbarfly.com/cardinale-modern/
 cosmopolitan:
   ingredients:
     citron vodka: 1.5
@@ -65,24 +55,10 @@ daiquiri:
   glass: stem
   ice: regular
   method: ingredients+ice, shake, strain
-  source: https://www.youtube.com/watch?v=fyZ4bwuPuiI
+  source: barfly, https://www.youtube.com/watch?v=fyZ4bwuPuiI
   variants:
     anders erickson: 0.75 lime juice and 0.5 simple https://www.youtube.com/watch?v=71jQRf5UrpE
     anders dark daquiri: 2 dark rum, 1 lime juice, 0.5 rich syrup (2:1)
-dark and stormy:
-dry martini:
-  ingredients:
-    gin: 2.5
-    dry vermouth: 0.5
-    orange bitters: 0.1
-  garnish:
-    lemon twist
-  glass: chilled stem
-  method: combine with ice, stir, strain
-  source: https://www.liquor.com/recipes/dry-martini/
-  variants:
-    vodka martini: vodka for gin
-    reverse martini: swap gin/vermouth ratios
 floridora:
   ingredients:
     gin: 2
@@ -94,26 +70,19 @@ floridora:
   ice: cubed
   method: ingredints + ice, good shake, strain to collins w/ ice, top with ginger beer
   source: https://theeducatedbarfly.com/florodora/
-french 75:
-gin and tonic:
-grasshopper:
-hairy navel:
+jungle bird:
   ingredients:
-    vodka: 1.5
-    peach schnapps: 1
-    orange juice: 4
-  garnish:
-    orange wheel
-    preserved cherry
-  glass: Collins
-  method: combine with ice, stir
-  source: https://www.liquor.com/hairy-navel-cocktail-recipe-5189037
-  notes: good for pool
-  review: it's ok
-kir royale:
-kir:
-lemon drop:
-long island iced tea:
+    dark jamaican rum: 2
+    pineapple juice: 2
+    campari: 0.75
+    lime juice: 0.5
+    simple syrup: 2
+  garnish: pineapple frond
+  glass: pint
+  ice: pebble
+  method: combine, shake, strain
+  source: https://www.youtube.com/watch?v=g3Q9pKgblZ0
+  note: Malaysian; Aviary Bar in Kuala Lumpor, 1978
 lynchburg lemonade:
   ingredients:
     whiskey: 1
@@ -130,7 +99,7 @@ lynchburg lemonade:
   review: low abv, refreshing
 mai tai:
   ingredients:
-    white rum: 1.5
+    light rum: 1.5
     orange curacao: 0.75
     lime juice: 0.75
     orgeat: 0.5
@@ -140,13 +109,12 @@ mai tai:
     mint sprig
   glass: rocks
   method: combine (- dark rum), light shake, pour, top w/ dark rum
-  notes: triple sec substitutes for orange curacao
   source: https://www.liquor.com/recipes/traditional-mai-tai/
 manhatten:
   ingredients:
     rye whiskey: 1.5
     sweet vermouth: 1
-    aromatic bitters: 0.2
+    aromatic bitters: 2 dashes
   garnish: brandied cherries on a spear
   glass: rocks
   method: combine with ice, stir, strain
@@ -164,13 +132,12 @@ margarita:
     lime wheel
     lime juice
     kosher salt
-  glass: rocks
+  glass: rocks w/ salt rim
   method: combine with ice, shake, strain
   variants:
     spicy: muddle 2 jalepeno coins, no seeds
   note: Blanco tequila w/ 100% blue agave.
   source: https://www.liquor.com/recipes/margarita/
-mimosa:
 mojito:
   ingredients:
     rum: 2
@@ -180,10 +147,9 @@ mojito:
     mint leaves: 10
   garnish: mint sprig
   glass: collins + straw
-  ice: standard
-  method: rum+lime+syrup+ice, quick shake. mint leaves in cup+ice. drain. top w/ soda+mint leaves
+  ice: cubes
+  method: rum+lime+syrup+ice, quick shake. mint leaves in cup+ice. strain. top w/ soda+mint leaves
   source: https://www.youtube.com/watch?v=KMypSCazyRw&t=54s
-moscow mule:
 negroni:
   ingredients:
     gin: 1
@@ -197,8 +163,6 @@ negroni:
   variants:
     boulevardier: bourbon for gin
     quill: https://www.liquor.com/quill-cocktail-recipe-5121046
-old fashioned:
-paloma:
 painkiller:
   ingredients:
     pusser's rum: 2
@@ -212,7 +176,6 @@ painkiller:
   glass: hurricane w/ crushed ice
   method: combine with ice, shake, strain
   source: https://www.liquor.com/recipes/painkiller/
-pina colada:
 radler:
   ingredients:
     lager beer: 8
@@ -229,8 +192,6 @@ rum and coke:
   glass: highball
   method: combine with ice, stir
   source: https://www.liquor.com/rum-coke-cocktail-recipe-5199586
-salty dog:
-sea breeze:
 see no evil:
   ingredients:
     mezcal: 1.5
@@ -269,7 +230,6 @@ vodka martini:
   ice: 1 big, 1 big broken
   method: all ingredients to mixing glass w/ ice, stir for 30 seconds, strain
   source: https://theeducatedbarfly.com/vodka-martini/
-whiskey sour:
 white russian:
   ingredients:
     vodka: 2
@@ -291,21 +251,46 @@ woo woo:
   notes: good for pool
   review: easy to prep, v popular fruity crowd pleaser
 
-template:
-  ingredients:
-  garnish:
-  glass: 
-  ice: 
-  method:
-  source:
+#template:
+#  ingredients:
+#    name: quantity [dash[es]]
+#  garnish:
+#  glass: 
+#  ice: 
+#  method:
+#  source:
+#
+#  note:
+#  review:
+#  source:
+#
+#bulks:
+#  baltimore eggnog: winter, https://www.liquor.com/baltimore-eggnog-recipe-5210679
+#  spiced apple cider: fall, https://www.liquor.com/spiced-apple-cider-recipe-5206530
+#  wassail: fall/winter, https://www.liquor.com/wassail-cocktail-recipe-5119079
+#  fish house punch: https://www.youtube.com/watch?v=cJhKGTM3z20&t=21s
+#  charles dickens punch: https://www.youtube.com/watch?v=BXGS7Ai2hec
+#  batched gin punch: https://www.youtube.com/watch?v=S66rB2wJzSM&t=12s
+#  blackwoods hot whiskey punch: https://theeducatedbarfly.com/blackwoods-hot-whiskey-punch-bruichladdich/
+#missed the list:
+#  queens park swizzle: advanced, fun to try later https://www.liquor.com/queens-park-swizzle-cocktail-recipe-5649402
+#want to make, need more ingredients:
+#  see no evil, mojito, 
 
-bulks:
-  baltimore eggnog: winter, https://www.liquor.com/baltimore-eggnog-recipe-5210679
-  spiced apple cider: fall, https://www.liquor.com/spiced-apple-cider-recipe-5206530
-  wassail: fall/winter, https://www.liquor.com/wassail-cocktail-recipe-5119079
-  fish house punch: https://www.youtube.com/watch?v=cJhKGTM3z20&t=21s
-  charles dickens punch: https://www.youtube.com/watch?v=BXGS7Ai2hec
-  batched gin punch: https://www.youtube.com/watch?v=S66rB2wJzSM&t=12s
-  blackwoods hot whiskey punch: https://theeducatedbarfly.com/blackwoods-hot-whiskey-punch-bruichladdich/
-missed the list:
-  queens park swizzle: advanced, fun to try later https://www.liquor.com/queens-park-swizzle-cocktail-recipe-5649402
+# to do:
+#  recipes:
+#   add the top 50 barfly drinks
+#   more bulks
+#  ingredients:
+#   substitutions
+#  inventory
+#  code
+#   recipes from inventory
+#    menu
+#    instructions
+#   shopping list from recipes+inventory
+#   inventory add/remove
+#  freshness
+#   ingredient shelf life
+#   open date
+#   inventory freshness summary
