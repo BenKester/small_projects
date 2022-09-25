@@ -11,6 +11,7 @@ bay breeze:
   method: combine with ice, stir
   source: https://www.liquor.com/bay-breeze-cocktail-recipe-5181821
   notes: good for pool
+  review: fruity crowd pleaser
 blinker:
   ingredients:
     rye whiskey: 2
@@ -18,9 +19,35 @@ blinker:
     raspberry syrup: 1
   garnish:
     3 raspberries, skewered
+  method: shake with ice, strain
+  glass: stem
+  variants: original uses grenadine
+  notes: nice summer rye
+bourbon smash:
+  ingredients:
+    bourbon: 2
+    simple syrup: 0.75
+    lemon: 0.5
+    mint leaves: 7
+  garnish: mint sprig
+  glass: lowball
+  ice: cubed
+  method: muddle quartered lemon+mint, simple+bourbon. shake & dump.
+  variants: strain over ice.
+  source: https://theeducatedbarfly.com/bourbon-smash/
+cardinale:
+  ingredients:
+    gin: 1
+    dry vermouth: 1
+    campari: 1
+  garnish: orange wheel
+  glass: lowball
+  ice: big cube
+  method: combine in glass with ice, stir
+  source: https://theeducatedbarfly.com/cardinale-modern/
 cosmopolitan:
   ingredients:
-    citron vodka: 6.5
+    citron vodka: 1.5
     cointreau: 0.75
     lime juice: 0.75
     cranberry juice cocktail: 0.5
@@ -30,6 +57,18 @@ cosmopolitan:
   method: combine with ice, shake, strain
   source: https://www.liquor.com/recipes/cosmopolitan/
 daiquiri:
+  ingredients:
+    rum: 2
+    lime juice: 1
+    simple syrup: 0.75
+  garnish: lime wheel
+  glass: stem
+  ice: regular
+  method: ingredients+ice, shake, strain
+  source: https://www.youtube.com/watch?v=fyZ4bwuPuiI
+  variants:
+    anders erickson: 0.75 lime juice and 0.5 simple https://www.youtube.com/watch?v=71jQRf5UrpE
+    anders dark daquiri: 2 dark rum, 1 lime juice, 0.5 rich syrup (2:1)
 dark and stormy:
 dry martini:
   ingredients:
@@ -38,12 +77,23 @@ dry martini:
     orange bitters: 0.1
   garnish:
     lemon twist
-  glass: chilled cocktail
+  glass: chilled stem
   method: combine with ice, stir, strain
   source: https://www.liquor.com/recipes/dry-martini/
   variants:
     vodka martini: vodka for gin
     reverse martini: swap gin/vermouth ratios
+floridora:
+  ingredients:
+    gin: 2
+    lime juice: 1
+    raspberry syrup: 0.5
+    ginger beer: 2
+  garnish: 3 raspberries speared
+  glass: collins
+  ice: cubed
+  method: ingredints + ice, good shake, strain to collins w/ ice, top with ginger beer
+  source: https://theeducatedbarfly.com/florodora/
 french 75:
 gin and tonic:
 grasshopper:
@@ -59,6 +109,7 @@ hairy navel:
   method: combine with ice, stir
   source: https://www.liquor.com/hairy-navel-cocktail-recipe-5189037
   notes: good for pool
+  review: it's ok
 kir royale:
 kir:
 lemon drop:
@@ -76,9 +127,10 @@ lynchburg lemonade:
   method: combine (-soda) with ice, shake, pour, top w/ lemon lime soda, stir briefly
   notes: Tony Mason created in Huntsville, AL; uses Jack Daniels whiskey; JD appropriated
   source: https://www.liquor.com/lynchburg-lemonade-cocktail-recipe-5199408
+  review: low abv, refreshing
 mai tai:
   ingredients:
-    white rum: 6.5
+    white rum: 1.5
     orange curacao: 0.75
     lime juice: 0.75
     orgeat: 0.5
@@ -95,8 +147,7 @@ manhatten:
     rye whiskey: 1.5
     sweet vermouth: 1
     aromatic bitters: 0.2
-  garnish:
-    brandied cherries on a spear
+  garnish: brandied cherries on a spear
   glass: rocks
   method: combine with ice, stir, strain
   source: https://www.liquor.com/a-new-high-rye-point-for-the-classic-manhattan-5225204
@@ -117,18 +168,28 @@ margarita:
   method: combine with ice, shake, strain
   variants:
     spicy: muddle 2 jalepeno coins, no seeds
-  note: Blanco tequila w/ 100% blue agave. Juice of about 1 lime.
+  note: Blanco tequila w/ 100% blue agave.
   source: https://www.liquor.com/recipes/margarita/
 mimosa:
 mojito:
+  ingredients:
+    rum: 2
+    lime juice: 0.75
+    rich demerara syrup: 0.5
+    soda water: 3
+    mint leaves: 10
+  garnish: mint sprig
+  glass: collins + straw
+  ice: standard
+  method: rum+lime+syrup+ice, quick shake. mint leaves in cup+ice. drain. top w/ soda+mint leaves
+  source: https://www.youtube.com/watch?v=KMypSCazyRw&t=54s
 moscow mule:
 negroni:
   ingredients:
     gin: 1
     campari: 1
     sweet vermouth: 1
-  garnish:
-    orange peel
+  garnish: orange peel
   glass: rocks
   method: combine with ice, stir, strain
   source: https://www.liquor.com/recipes/negroni/
@@ -170,7 +231,44 @@ rum and coke:
   source: https://www.liquor.com/rum-coke-cocktail-recipe-5199586
 salty dog:
 sea breeze:
+see no evil:
+  ingredients:
+    mezcal: 1.5
+    orgeat: 0.75
+    lime juice: 0.75
+    tabasco: 0.3
+    angostura bitters: 0.4
+  garnish:
+    grated nutmeg
+    mint sprig, large
+    straw
+  glass: rocks
+  ice: pebble
+  method: add ingredients(-bitters) and ice, quick shake, open pour, add more ice
+  source: https://www.youtube.com/watch?v=xRJ9uAzTcaE
 tom collins:
+  ingredients:
+    london dry gin: 2
+    lemon juice: 1
+    simple syrup: 0.5
+    club soda: 1
+  garnish:
+    lemon wheel
+    maraschino cherry
+  glass: Collins
+  method: gin+lemon juice+syrup+ice+club soda, stir
+  source: https://www.liquor.com/recipes/tom-collins-2/
+vodka martini:
+  ingredients:
+    vodka: 2.25
+    dry vermouth: 0.75
+    orange bitters: 0.1
+  garnish:
+    olive or lemon twist
+  glass: stem
+  ice: 1 big, 1 big broken
+  method: all ingredients to mixing glass w/ ice, stir for 30 seconds, strain
+  source: https://theeducatedbarfly.com/vodka-martini/
 whiskey sour:
 white russian:
   ingredients:
@@ -191,11 +289,13 @@ woo woo:
   method: combine with ice, stir
   source: https://www.liquor.com/woo-woo-cocktail-recipe-5101083
   notes: good for pool
+  review: easy to prep, v popular fruity crowd pleaser
 
 template:
   ingredients:
   garnish:
   glass: 
+  ice: 
   method:
   source:
 
@@ -203,5 +303,9 @@ bulks:
   baltimore eggnog: winter, https://www.liquor.com/baltimore-eggnog-recipe-5210679
   spiced apple cider: fall, https://www.liquor.com/spiced-apple-cider-recipe-5206530
   wassail: fall/winter, https://www.liquor.com/wassail-cocktail-recipe-5119079
+  fish house punch: https://www.youtube.com/watch?v=cJhKGTM3z20&t=21s
+  charles dickens punch: https://www.youtube.com/watch?v=BXGS7Ai2hec
+  batched gin punch: https://www.youtube.com/watch?v=S66rB2wJzSM&t=12s
+  blackwoods hot whiskey punch: https://theeducatedbarfly.com/blackwoods-hot-whiskey-punch-bruichladdich/
 missed the list:
   queens park swizzle: advanced, fun to try later https://www.liquor.com/queens-park-swizzle-cocktail-recipe-5649402
